@@ -1,0 +1,9 @@
+# Shared agent skills.
+#
+# Format:
+#   github.com/OWNER/REPO//PATH@REV
+#
+# Examples:
+# github.com/openai/skills//skills/.curated/doc@dc48aff8208131776c9937326002bd60cf572ab6
+# github.com/TheGreatGildo/nerv-ui@c2c890b023e7d7b6d9498b67b82ffb3a3c92340f
+
